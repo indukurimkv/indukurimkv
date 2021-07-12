@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @indukurimkv
-- 👀 I’m interested anything related to programing, space, and tech.
+- Hi, I’m Murali
+- I love anything related to programing, space, and tech.
 - Contact me on gmail: indukurimkv@gmail.com
 
 <!---
